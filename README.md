@@ -16,10 +16,10 @@
 
 ```bash
 # 安装到 Claude Code
-npx skills add https://github.com/YOUR_USERNAME/humanizer-zh.git
+npx skills add https://github.com/deedeekong07-alt/humanizer-zh.git
 
 # 或手动克隆
-git clone https://github.com/YOUR_USERNAME/humanizer-zh.git ~/.claude/skills/humanizer-zh
+git clone https://github.com/deedeekong07-alt/humanizer-zh.git ~/.claude/skills/humanizer-zh
 ```
 
 安装后在 Claude Code 中输入 `/humanizer-zh` 或直接说"去AI味"即可触发。
